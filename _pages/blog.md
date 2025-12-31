@@ -24,8 +24,8 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <p>一個香港天主教徒到英國聖堂工作的日常故事</p>
-    <p>閒時介紹英國聖堂，以及分享移英生活、信仰及靈修生活</p>
+    <h3>一個香港天主教徒到英國聖堂工作的日常故事</h3>
+    <h4>閒時介紹英國聖堂，以及分享移英生活、信仰及靈修生活</h4>
   </div>
   {% endif %}
 
