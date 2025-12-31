@@ -1,5 +1,5 @@
 ---
-layout: Home
+layout: about
 title: Home
 permalink: /
 subtitle: 一個香港天主教徒到英國聖堂工作的日常故事
