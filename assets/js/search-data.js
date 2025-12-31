@@ -139,11 +139,11 @@ ninja.data = [{
           window.open("mailto:%63%68%61%76%65%7A%70%6F%6F%6E@%69%63%6C%6F%75%64.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-facebook',
+        title: 'Facebook',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://facebook.com/hongkongtowalsingham", "_blank");
         },
       },{
         id: 'social-instagram',
