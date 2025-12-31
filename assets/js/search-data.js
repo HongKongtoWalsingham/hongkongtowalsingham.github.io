@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/timetable/";
               },
-            },{id: "post-納匝肋聖屋",
+            },{id: "post-印度籍教友堂區",
+        
+          title: "印度籍教友堂區",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/%E5%8D%B0%E5%BA%A6%E7%B1%8D%E6%95%99%E5%8F%8B%E5%A0%82%E5%8D%80/";
+          
+        },
+      },{id: "post-納匝肋聖屋",
         
           title: "納匝肋聖屋",
         
