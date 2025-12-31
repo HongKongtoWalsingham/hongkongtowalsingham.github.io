@@ -24,8 +24,8 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h2>從香港到沃辛漢姆</h2>
     <h2>一個香港天主教徒到英國聖堂工作的日常故事</h2>
+    <h3>閒時介紹英國聖堂，以及分享移英生活、信仰及靈修生活</h3>
   </div>
   {% endif %}
 
