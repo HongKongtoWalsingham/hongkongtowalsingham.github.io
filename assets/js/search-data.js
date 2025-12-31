@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-歷史",
+  },{id: "nav-禮儀時間表",
+          title: "禮儀時間表",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/timetable/";
+          },
+        },{id: "nav-歷史",
           title: "歷史",
           description: "",
           section: "Navigation",
