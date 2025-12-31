@@ -15,7 +15,7 @@ nav: false
 
 - 上午十時三十分至十一時三十分（星期一至六）
 - 下午二時至三時三十分（星期一至日）
-
+<hr/>
 ### 聖公會沃辛漢姆聖母朝聖地
 
 地址：2 Common Place, Walsingham, Norfolk, UK, NR22 6EE
