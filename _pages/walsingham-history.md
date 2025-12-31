@@ -2,7 +2,7 @@
 layout: page
 title: 歷史
 permalink: /walsingham-history/
-nav: true
+nav: false
 ---
 
 **在起初**
