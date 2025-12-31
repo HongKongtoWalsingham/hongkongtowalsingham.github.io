@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/timetable/";
               },
-            },{id: "post-彌撒及朝聖者辦公室助理",
+            },{id: "post-納匝肋聖屋",
+        
+          title: "納匝肋聖屋",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/%E7%B4%8D%E5%8C%9D%E8%82%8B%E8%81%96%E5%B1%8B/";
+          
+        },
+      },{id: "post-彌撒及朝聖者辦公室助理",
         
           title: "彌撒及朝聖者辦公室助理",
         
