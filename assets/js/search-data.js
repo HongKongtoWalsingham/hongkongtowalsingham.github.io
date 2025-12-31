@@ -37,7 +37,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/timetable/";
               },
-            },{id: "post-印度籍教友堂區",
+            },{id: "nav-聯絡我",
+          title: "聯絡我",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/_pages/contact-me/";
+          },
+        },{id: "post-印度籍教友堂區",
         
           title: "印度籍教友堂區",
         
