@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 title: 歷史
 permalink: /walsingham-history/
 ---
