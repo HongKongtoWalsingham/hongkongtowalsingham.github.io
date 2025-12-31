@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: 關於
+title: 關於我
 description: 
 nav: true
 nav_order: 3
