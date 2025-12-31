@@ -5,9 +5,9 @@ nav: true
 nav_order: 4
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: 歷史
+    permalink: /walsingham-history/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: 禮儀時間表
+    permalink: /timetable/
 ---
