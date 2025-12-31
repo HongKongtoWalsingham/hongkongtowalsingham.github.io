@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/timetable/";
           },
+        },{id: "nav-歷史",
+          title: "歷史",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/walsingham-history/";
+          },
         },{id: "nav-文章",
           title: "文章",
           description: "",
