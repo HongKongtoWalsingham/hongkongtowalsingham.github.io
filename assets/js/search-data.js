@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-歷史",
+              title: "歷史",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
+                window.location.href = "/walsingham-history/";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-禮儀時間表",
+              title: "禮儀時間表",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "/timetable/";
               },
             },{id: "post-a-post-with-plotly-js",
         
