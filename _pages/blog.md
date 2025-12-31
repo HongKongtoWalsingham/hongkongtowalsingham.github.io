@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: 文章
 nav: true
 nav_order: 1
 pagination:
@@ -24,8 +24,8 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h2>從香港到沃辛漢姆</h2>
+    <h2>一個香港天主教徒到英國聖堂工作的日常故事</h2>
   </div>
   {% endif %}
 
