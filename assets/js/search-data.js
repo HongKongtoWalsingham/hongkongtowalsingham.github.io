@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/timetable/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-彌撒及朝聖者辦公室助理",
+        
+          title: "彌撒及朝聖者辦公室助理",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/%E5%BD%8C%E6%92%92%E5%8F%8A%E6%9C%9D%E8%81%96%E8%80%85%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%8A%A9%E7%90%86/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
