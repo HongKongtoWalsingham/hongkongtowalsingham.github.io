@@ -37,6 +37,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/timetable/";
               },
+            },{id: "dropdown-沃辛漢姆聖母慶日彌撒經文",
+              title: "沃辛漢姆聖母慶日彌撒經文",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/olwmissa/";
+              },
             },{id: "post-印度籍教友堂區",
         
           title: "印度籍教友堂區",
