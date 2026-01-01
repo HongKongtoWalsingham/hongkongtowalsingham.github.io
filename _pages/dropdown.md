@@ -10,4 +10,7 @@ children:
   - title: divider
   - title: 禮儀時間表
     permalink: /timetable/
+  - title: divider
+  - title: 沃辛漢姆聖母慶日彌撒經文
+    permalink: /olwmissa/
 ---
