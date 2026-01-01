@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: 沃辛漢姆聖母慶日彌撒經文
 permalink: /olwmissa/
 nav: false
