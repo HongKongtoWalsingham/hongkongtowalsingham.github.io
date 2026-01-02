@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/olwmissa/";
               },
-            },{id: "post-印度籍教友堂區",
+            },{id: "post-一個月快樂",
+        
+          title: "一個月快樂",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/%E4%B8%80%E5%80%8B%E6%9C%88%E5%BF%AB%E6%A8%82/";
+          
+        },
+      },{id: "post-印度籍教友堂區",
         
           title: "印度籍教友堂區",
         
